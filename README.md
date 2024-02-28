@@ -1,4 +1,4 @@
-# try_flutter
+# ecommerci_flutter
 
 A new Flutter project.
 
